@@ -16,21 +16,21 @@
     {
       "name": "killChromiumTabs",
       "title": "Kill Chromium Tabs",
-      "subtitle": "kct",
+      "subtitle": "Chromium",
       "description": "Kill All Chromium Tabs",
       "mode": "no-view"
     },
     {
       "name": "killChromeTabs",
       "title": "Kill Chrome Tabs",
-      "subtitle": "kcht",
+      "subtitle": "Chrome",
       "description": "Kill All Chrome Tabs",
       "mode": "no-view"
     },
     {
       "name": "killBraveTabs",
       "title": "Kill Brave Tabs",
-      "subtitle": "kbt",
+      "subtitle": "Brave",
       "description": "Kill All Brave Tabs",
       "mode": "no-view"
     }
