@@ -23,14 +23,14 @@
     {
       "name": "killChromeTabs",
       "title": "Kill Chrome Tabs",
-      "subtitle": "kct",
+      "subtitle": "kcht",
       "description": "Kill All Chrome Tabs",
       "mode": "no-view"
     },
     {
       "name": "killBraveTabs",
       "title": "Kill Brave Tabs",
-      "subtitle": "kct",
+      "subtitle": "kbt",
       "description": "Kill All Brave Tabs",
       "mode": "no-view"
     }
