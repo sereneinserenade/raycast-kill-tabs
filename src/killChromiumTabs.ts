@@ -1,5 +1,5 @@
 import { showHUD } from "@raycast/api";
-import killTabs from 'kill-tabs'
+import killTabs from "kill-tabs";
 
 const KillChromiumTabs = async () => {
   try {
@@ -8,6 +8,6 @@ const KillChromiumTabs = async () => {
   } catch {
     await showHUD("Something went wrong!");
   }
-}
+};
 
-export default KillChromiumTabs
+export default KillChromiumTabs;

@@ -1,1 +1,1 @@
-declare module 'kill-tabs';
+declare module "kill-tabs";
