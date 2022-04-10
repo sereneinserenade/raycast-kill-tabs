@@ -8,4 +8,4 @@ A Raycast extension that uses https://github.com/sindresorhus/kill-tabs to provi
 
 ## Demo
 
-![Demo](metadata/demo.png)
+![Demo](assets/demo.png)
