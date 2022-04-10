@@ -14,15 +14,30 @@
   "license": "MIT",
   "commands": [
     {
-      "name": "index",
-      "title": "Kill Tabs",
-      "subtitle": "ktab",
-      "description": "Template with a plain detail view",
-      "mode": "view"
+      "name": "killChromiumTabs",
+      "title": "Kill Chromium Tabs",
+      "subtitle": "kct",
+      "description": "Kill All Chromium Tabs",
+      "mode": "no-view"
+    },
+    {
+      "name": "killChromeTabs",
+      "title": "Kill Chrome Tabs",
+      "subtitle": "kct",
+      "description": "Kill All Chrome Tabs",
+      "mode": "no-view"
+    },
+    {
+      "name": "killBraveTabs",
+      "title": "Kill Brave Tabs",
+      "subtitle": "kct",
+      "description": "Kill All Brave Tabs",
+      "mode": "no-view"
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.32.1"
+    "@raycast/api": "^1.32.1",
+    "kill-tabs": "^4.0.1"
   },
   "devDependencies": {
     "@types/node": "~16.10.0",
