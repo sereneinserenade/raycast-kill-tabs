@@ -1,7 +1,7 @@
 import { showHUD } from "@raycast/api";
 import killTabs from 'kill-tabs'
 
-const KillChromeTabs = async () => {
+const KillChromiumTabs = async () => {
   try {
     await killTabs({ chromium: true });
     await showHUD("Killed all tabs");
@@ -10,4 +10,4 @@ const KillChromeTabs = async () => {
   }
 }
 
-export default KillChromeTabs
+export default KillChromiumTabs
